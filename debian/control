@@ -10,4 +10,5 @@ Package: gerrit-openstack-like-theme
 Architecture: all
 Depends: ${misc:Depends}, gerrit
 Description: Openstack-like theme for gerrit
- Unpuppied version of openstack-like theme for Gerrit, also deleted unneeded things from initial repo
+ Unpuppied version of openstack-like theme for Gerrit, also deleted unneeded 
+ things from initial repo
