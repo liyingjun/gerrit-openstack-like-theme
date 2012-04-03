@@ -1,0 +1,2 @@
+etc/* var/lib/gerrit/etc
+static/* /var/lib/gerrit/static

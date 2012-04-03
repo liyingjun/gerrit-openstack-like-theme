@@ -1,0 +1,13 @@
+Source: gerrit-openstack-like-theme
+Section: misc
+Priority: extra
+Maintainer: Rashit Azizbaev <syndicut@gmail.com>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.3
+Homepage: https://github.com/syndicut/gerrit-openstack-like-theme
+
+Package: gerrit-openstack-like-theme
+Architecture: all
+Depends: ${misc:Depends}, gerrit
+Description: Openstack-like theme for gerrit
+ Unpuppied version of openstack-like theme for Gerrit, also deleted unneeded things from initial repo
